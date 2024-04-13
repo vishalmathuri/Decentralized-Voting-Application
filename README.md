@@ -1,27 +1,26 @@
 # Decentralized-Voting-Application
 # Decentralized Voting Application
 
-The decentralized voting application allows users to securely participate in elections using blockchain technology. It consists of three main components: a smart contract deployed on the Ethereum blockchain, a web-based front-end, and a Discord bot.
+The decentralized voting application allows users to participate in elections securely using blockchain technology.
+It consists of three main components: a smart contract deployed on the Ethereum blockchain, a web-based front-end, and a Discord bot.
 
 ## Folder Structure
 
-voting_application/
-│
-├── smart_contract/
-│ ├── Voting.sol
-│ └── README.md
-│
-├── web_front_end/
-│ ├── index.html
-│ ├── styles.css
-│ ├── ethers.js
-│ └── app.js
-│
-├── discord_bot/
-│ ├── bot.js
-│ └── package.json
-│
-└── README.md
+
+1. smart_contract
+   a. Voting.sol
+   b. README.md
+2. web_front_end/
+   a. index.html
+   b. styles.css
+   c. ethers.js
+   d. app.js
+
+3. discord_bot/
+   a. bot.js
+   b. package.json
+
+4. README.md
 
 
 - **smart_contract**: Contains the Solidity smart contract code for managing the voting process.
