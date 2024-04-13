@@ -1,0 +1,10 @@
+{
+  "name": "voting_discord_bot",
+  "version": "1.0.0",
+  "description": "Discord bot for decentralized voting application",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^13.3.0",
+    "ethers": "^5.5.5"
+  }
+}
